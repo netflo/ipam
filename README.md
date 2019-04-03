@@ -17,4 +17,4 @@ section 1 is client 1
 subnet 9 is the CIDR to draw subnets from 
 /25/ is the subnet size to obtain
 
-curl -X POST to actually book
+curl -X POST to actually book the subnet     curl -X POST http://192.168.x.y/api/myappid/subnets/9/first_subnet/25/
